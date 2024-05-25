@@ -5,4 +5,4 @@
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
-![CI](https://github.com/ZlayaZayaZ/dz1-workenvironment/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/ZlayaZayaZ/Dz1_WorkEnvironment/blob/master/src/img/netology.svg)
